@@ -2,6 +2,7 @@
 ![image](https://user-images.githubusercontent.com/64488123/184599765-14af2eb6-8deb-48af-842f-eb8bdc94c6df.png)
 
 EID: 4688 means a new process has been created
+EID: 4625 gets generated when there is a logon failure, and 4624 is when a logon is sucessful
 
 ![image](https://user-images.githubusercontent.com/64488123/184603555-65435c91-6d24-4f79-9412-84d6da33a90a.png)
 
